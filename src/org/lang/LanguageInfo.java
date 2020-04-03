@@ -1,6 +1,10 @@
 package org.lang;
 
 public class LanguageInfo {
+	public void kannadaLanguage() {
+		System.out.println("Kannada");
+
+	}
 	public void tamilLanguage() {
 		System.out.println("Tamil");
 	}
