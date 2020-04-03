@@ -12,5 +12,10 @@ public class LanguageInfo {
 	public void hindiLanguage() {
 		System.out.println("Hindi");
 	}
+	
+	public void malayalam() {
+		System.out.println("malayalam");
+
+	}
 
 }
